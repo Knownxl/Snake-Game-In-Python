@@ -11,7 +11,7 @@ The classic snake game in python using Pygame
 This uses the pygame
 
 INSTALL WITH: 
-- Windows (Using pip) : 
+- Windows (Using pip) : pip install pygame
 - MacOS (Using pip): pip3 install pygame
 or - python3 -m pip install pygame
 
